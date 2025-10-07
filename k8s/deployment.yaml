@@ -12,5 +12,5 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: atuljkamble/docker-hello-world:latest
+          image: akashu96/docker-helloworld:latest
           ports: [{ containerPort: 80 }]

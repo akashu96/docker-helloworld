@@ -12,5 +12,5 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: atulkamble.azurecr.io/samples/hello-world:latest
+          image: akashu96.azurecr.io/samples/hello-world:latest
           ports: [{ containerPort: 80 }]
